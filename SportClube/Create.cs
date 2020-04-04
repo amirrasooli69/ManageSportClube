@@ -9,15 +9,7 @@ namespace Practical
     class Create
     {
         public string Name { get; set; }
-        public string Family {
-            get
-            {
-                return Family;
-            }
-            set
-            {
-                this.Family = value;
-            }
+        public string Family { get; set; }
         }
         
     }
