@@ -90,6 +90,7 @@
     <Compile Include="Coach.cs">
       <DependentUpon>Models.tt</DependentUpon>
     </Compile>
+    <Compile Include="Create.cs" />
     <Compile Include="Models.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
